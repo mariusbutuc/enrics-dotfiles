@@ -16,8 +16,8 @@
   changed = green
   untracked = cyan
 [user]
-  name = Anonymous Developer
-  email = dev@influitive.com
+  name = Marius Butuc
+  email = marius.butuc@gmail.com
   affiliation = Influitive
 [push]
   default = current
